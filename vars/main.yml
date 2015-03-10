@@ -15,6 +15,9 @@ homebrew_installed_packages:
   - gnutls 
   - gnu-indent
   - gnu-getopt
+  - thrift
+#  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/libphutil.rb
+#  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/arcanist.rb
 
 homebrew_taps:
   - caskroom/cask
@@ -36,3 +39,7 @@ homebrew_cask_apps:
   - iterm2
   - nosleep
   - caffeine
+  - xquartz
+  - wireshark
+  - tunnelblick
+  - flux
