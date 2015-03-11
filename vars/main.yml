@@ -16,6 +16,7 @@ homebrew_installed_packages:
   - gnu-indent
   - gnu-getopt
   - thrift
+  - vim
 #  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/libphutil.rb
 #  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/arcanist.rb
 
@@ -43,3 +44,4 @@ homebrew_cask_apps:
   - wireshark
   - tunnelblick
   - flux
+  - shiftit
