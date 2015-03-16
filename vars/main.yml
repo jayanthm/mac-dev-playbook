@@ -7,24 +7,26 @@ homebrew_installed_packages:
   - npm
   - wget
   - brew-cask
-  - coreutils 
-  - findutils 
-  - gnu-tar 
-  - gnu-sed 
-  - gawk 
-  - gnutls 
+  - coreutils
+  - findutils
+  - gnu-tar
+  - gnu-sed
+  - gawk
+  - gnutls
   - gnu-indent
   - gnu-getopt
   - thrift
   - vim
-#  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/libphutil.rb
-#  - https://raw.githubusercontent.com/jayanthm/homebrew-arcanist/master/arcanist.rb
+  - bash-completion
+#  - arcanist
+#  - https://raw.githubusercontent.com/Homebrew/homebrew/25a31179a984972984a5074c21ced0ab1674e561/Library/Formula/node.rb
 
 homebrew_taps:
   - caskroom/cask
   - homebrew/binary
   - homebrew/dupes
   - homebrew/versions
+#  - homebrew/head-only
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
@@ -46,3 +48,5 @@ homebrew_cask_apps:
   - flux
   - shiftit
   - boot2docker
+  - intellij-idea
+  - nomachine
