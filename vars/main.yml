@@ -48,5 +48,7 @@ homebrew_cask_apps:
   - flux
   - shiftit
   - boot2docker
-  - intellij-idea
+  - intellij-idea-ce
   - nomachine
+  - lastpass
+  - vmware-fusion
